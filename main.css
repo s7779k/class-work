@@ -1,0 +1,346 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.soft1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 80px;
+}
+.soft2{
+align-items: center;
+}
+
+.soft3{ 
+    display: flex;
+    justify-content: space-around;
+ width: 40%;
+ list-style: none;
+}
+.soft4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.soft5{ margin-top: 7%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.soft6 h1{
+    margin-top: 5%;
+ font-size: 60px;
+}
+.soft6 h2{
+    font-size: 58px;
+    color: green;
+}
+.soft6 p{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.soft6 button{
+   width: 125px;
+    height: 50px;
+    background-color: green;
+}
+.soft7 h1{
+    margin-top: 3%;
+    margin-bottom: 1%;
+    width: 30%;
+    margin-left: 43%;
+}
+.soft7 p{
+    margin-left: 37%;
+}
+.soft8{margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+font-size: 10px;
+}
+.soft9{
+    margin-top: 5%;
+}
+.soft9 h1{
+    margin-left: 32%;
+    width: 30%;
+    text-align: center;
+}
+.soft9 p{font-size: 17px;
+    margin-left: 42%;
+    margin-top: 1%;
+}
+.soft10{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.soft11{
+    width: 14%;
+}
+.soft11 h1{
+    text-align: center;
+}
+.soft11 p{
+    text-align: center;
+}
+.soft12{
+    width: 14%;
+}
+.soft12 h1{
+    text-align: center;
+}
+.soft12 p{
+    text-align: center;
+}
+.soft13{
+    width: 14%;
+}
+.soft13 h1{
+    text-align: center;
+}
+.soft13 p{
+    text-align: center;
+}
+.soft14{
+    margin-top: 9%;
+    display: flex;
+}
+.soft14 img{
+
+    margin-left: 17%;
+}
+.soft15{
+    margin-top: 2%;
+    margin-left: 7%; 
+}
+.soft15 h1{
+    width: 85%;
+    margin-bottom: 1%;
+    font-size: 38px;
+}
+.soft15 p{
+    font-size: 18px;
+    width: 95%;
+    margin-bottom: 3%;
+}
+.soft15 button{
+    width: 111px;
+    height: 40px;
+    background-color: green;
+}
+.soft16{
+    background-color: #F5F7FA;
+    margin-top: 6%;
+    display: flex;
+    
+}
+.soft17 h1{
+    width: 100%;
+ margin-left: 80%;
+ margin-bottom: 2%;
+}
+.soft17 p{
+    width: 100%;
+    margin-left: 80%;
+}
+.soft18{
+    width: 40%;
+    margin-left: 30%;
+}
+.soft19{
+    margin-top: 7%;
+    display: flex;
+
+}
+.soft20{
+    margin-top: 6%;
+    margin-left: 6%;
+    width: 40%;
+}
+.soft20 p{
+    margin-top: 1%;
+}
+.soft20 button{
+    margin-top: 3%;
+    width: 111px;
+    height: 40px;
+    border-radius: none;
+    background-color: green;
+}
+.soft21{
+    margin-left: 13%;
+}
+.soft22{
+    display: flex;
+    margin-top: 5%;
+    background-color: #F5F7FA;
+}
+.soft226 {
+margin-left: 50%;
+}
+
+.soft22 p{
+    margin-top: 3%;
+    width: 60%;
+    margin-left: 23%
+}
+.soft22 h4{
+    margin-left: 23%;
+    margin-top: 1%;
+    color: green;
+    font-size: 25px;
+}
+.soft23{
+    margin-left: 18%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.soft23 h5{
+    color: green;
+    font-size: 22px;
+    margin-right: 3%;
+}
+.soft24 h1{
+    margin-left: 36%;
+    margin-top: 3%;
+}
+.soft24 p{
+    margin-top: 1%;
+    width: 42%;
+    text-align:center ;
+    margin-left: 30%;
+}
+
+.soft40{
+    background-color: #F5F7FA;
+    height: 30vh;
+}
+.soft40 h1{
+    font-size: 45px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+.soft40 button{
+    width: 200px;
+    height: 50px;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+.div1{
+    height: 75vh;
+    padding: 0 100px;
+    margin-top: 50px;
+}
+.dib{
+    display: flex;
+    justify-content: space-between;
+
+}
+.dib1{
+    width: 32%;
+    height: 40vh;
+}
+.dib1 img{
+    width: 100%;
+    height: 100%;
+}
+.dif{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+.dif1{
+    width: 26%;
+    height: 25vh;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 50px;
+    border-radius: 10px;
+
+}
+.dif1 h3{
+    text-align: center;
+    padding: 15px 0;
+    width: 70%;
+    margin: auto;
+    color: gray;
+    font-size: 22px;
+}
+.dif1 button{
+    width: 100%;
+    border: none;
+    background-color: whitesmoke;
+    font-size: 22px;
+    color: green;
+}
+.oxir{
+    height: 40vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    background-color: black;
+    color: white;
+    align-items: center;
+
+}
+.div{
+     
+    height: 30vh;
+    width: 35%;
+
+}
+.div img{
+    margin-bottom: 40px;
+}
+.img3{
+    margin-top: 30px;
+}
+.did{
+    height: 30vh;
+    width: 15%;
+}
+.did h3{
+    padding-bottom: 20px;
+}
+.did p{
+    padding-top: 10px;
+}
+.did1{
+    height: 30vh;
+    width: 25%;
+}
+.did1 h3{
+    padding-bottom: 20px;
+}
+.did1 p{
+    padding-top: 10px;
+}
+.did2{
+    width: 30%;
+    height: 30vh;
+
+}
+.did2 h1{
+    padding: 20px 0;
+}
+.did2 input{
+    width: 60%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    font-size: 20px;
+    padding-left: 20px;
+    border: 2px solid grey;
+}
